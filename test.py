@@ -11,7 +11,7 @@ class Etudiant:
         prenom -- le prénom de l'étudiant
         age -- l'âge de l'étudiant
         moyenne -- la moyenne de l'étudiant
-
+        Tests
     """
 
     def __init__(self, prenom, age, moyenne):
